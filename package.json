@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/mzaini30/svelte-esbuild/issues"
   },
-  "homepage": "https://github.com/mzaini30/svelte-esbuild#readme"
+  "homepage": "https://github.com/mzaini30/svelte-esbuild#readme",
+  "dependencies": {
+    "esbuild": "^0.8.31",
+    "esbuild-svelte": "^0.4.0"
+  }
 }
